@@ -1,9 +1,16 @@
 ---
 layout: post
+title : "transfer function calculation through MATLAB"
+data : 2019-02-17
 comments: true
 categories: diary
 ---
 
-## Empty diary template
+* content
+{:toc}
 
-Empty post template
+### circuit diagram example
+
+### equations
+
+### program
